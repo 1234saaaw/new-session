@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    color: beige;
+}
+
+title{
+    color:aquamarine;
+}
+
+h1{
+    font-family: sans-serif;
+    font-size: larger;
+}
+p{
+color: pink;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
